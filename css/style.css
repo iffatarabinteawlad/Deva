@@ -346,6 +346,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media (max-width: 575.98px) {
+  .sectionTwo .secondinner h2 {
+    font-size: 20px;
+  }
+}
+
 .sectionTwo .secondinner p {
   font-weight: 400;
   font-size: 18px;
@@ -363,6 +369,12 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 991.98px) {
   .sectionTwo .secondinner p {
     text-align: center;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .sectionTwo .secondinner p {
+    font-size: 11px;
   }
 }
 
@@ -439,6 +451,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 40px 0px 20px;
 }
 
+@media (max-width: 575.98px) {
+  .sectionThree h2 {
+    font-size: 20px;
+  }
+}
+
 .sectionThree p {
   font-weight: 400;
   font-size: 18px;
@@ -450,6 +468,12 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 767.98px) {
   .sectionThree p {
     font-size: 14px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .sectionThree p {
+    font-size: 11px;
   }
 }
 
@@ -670,8 +694,9 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 575.98px) {
   .sectionFour .img4 {
-    top: 40%;
-    left: 36%;
+    top: 30%;
+    left: 32%;
+    max-width: 70%;
   }
 }
 
@@ -749,6 +774,12 @@ h1, h2, h3, h4, h5, h6 {
   margin: 29px 0px;
 }
 
+@media (max-width: 575.98px) {
+  .sectionFive h2 {
+    font-size: 20px;
+  }
+}
+
 .sectionFive p {
   font-weight: 400;
   font-size: 18px;
@@ -761,6 +792,12 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 991.98px) {
   .sectionFive p {
     font-size: 16px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .sectionFive p {
+    font-size: 11px;
   }
 }
 
@@ -1240,7 +1277,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 575.98px) {
   .footerSection button {
-    padding: 12px 228px;
+    padding: 12px 150px;
   }
 }
 
