@@ -1,0 +1,8 @@
+@media (max-width : 1199.98px){}
+@media (max-width : 991.98px){}
+@media (max-width : 767.98px){}
+@media (max-width : 575.98px){}
+%Name
+Call:@extend Name
+$singlename
+col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4
